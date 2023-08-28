@@ -28,6 +28,7 @@
 # customer_value_total_ever_offline : Müşterinin offline alışverişlerinde ödediği toplam ücret
 # customer_value_total_ever_online : Müşterinin online alışverişlerinde ödediği toplam ücret
 # interested_in_categories_12 : Müşterinin son 12 ayda alışveriş yaptığı kategorilerin listesi
+# store_type 3 farklı companyi ifade eder. A company'sinden alışveriş yapan kişi B'dende yaptı ise A,B şeklinde yazılmıştır.
 
 
 ###############################################################
