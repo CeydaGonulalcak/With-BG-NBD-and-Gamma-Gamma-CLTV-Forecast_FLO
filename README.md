@@ -18,3 +18,4 @@ The dataset consists of information obtained from the past shopping behaviors of
   * customer_value_total_ever_offline: The total amount paid by the customer for offline purchases
   * customer_value_total_ever_online: The total amount paid by the customer for online purchases
   * interested_in_categories_12: List of categories the customer shopped in the last 12 months
+  * store_type: refers to 3 different companies. If the person who shopped from company A made it from company B, it was written as A, B.
