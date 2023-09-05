@@ -1,4 +1,5 @@
 # With-BG-NBD-and-Gamma-Gamma-CLTV-Forecast_FLO
+This project aims to help FLO create a roadmap for its sales and marketing activities. It is important to estimate the potential value that companies can offer in the future in the current market so that the company can plan for the medium and long term. Within the scope of this project is the use of different spreads to analyze purchasing capacities and expenditures. As a result of these analyzes, it is aimed that FLO will provide better services to its customers and increase customer performance. This project will be an important step towards the long-term success of FLO.
 
 # Business Problem
 * FLO wants to set a roadmap for sales and marketing activities.
